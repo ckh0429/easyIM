@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/KH-Chen/Documents/easyIM/app/src/main/res/values-sw360dp/styles.xml -->
+    <eat-comment/>
+    <style name="addressDetail" parent="@android:style/TextAppearance.Large">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+</resources>

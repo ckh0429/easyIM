@@ -1,0 +1,3 @@
+/Users/KH-Chen/Documents/easyDialer/app/build/intermediates/classes/debug
+/Users/KH-Chen/Documents/easyDialer/app/build/intermediates/pre-dexed/debug/classes-7da9733ed11d7279ae2bed3f73c7bdc4bd36f283.jar
+/Users/KH-Chen/Documents/easyDialer/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-384b98e543210c897f46b7d7f9ddf094248745fe.jar
